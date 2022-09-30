@@ -1,2 +1,2 @@
 # auth-node-mongodb
- Creating authentication page using node js and mongoDB
+ Creating API with a authentication page using node js and mongoDB
